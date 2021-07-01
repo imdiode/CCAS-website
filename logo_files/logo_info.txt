@@ -1,0 +1,5 @@
+Logo font Information
+
+Font: Reem Kufi
+Weight: 400
+Style: normal
